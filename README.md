@@ -20,4 +20,4 @@ https://github.com/mumuy/data_location
 * 也可以直接使用sql文件夹中的city.sql文件
 
 ### 数据结构
-![image](https://github.com/jclww/ChinaCityInfo/tree/master/img/table.png)
+![image](https://github.com/jclww/ChinaCityInfo/blob/master/img/table.png)
